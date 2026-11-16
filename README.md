@@ -1,6 +1,6 @@
 # An Empirical Benchmarking Analysis of Generative AI Models vs. Traditional Heuristics for Codon Optimization, Structural Stability, and Cost Efficiency in mRNA Vaccine Engineering
 
-[![Empirical mRNA Benchmark Pipeline](https://github.com/username/mrna-ai-benchmark/actions/workflows/benchmark.yml/badge.svg)](https://github.com/username/mrna-ai-benchmark/actions)
+[![Empirical mRNA Benchmark Pipeline](https://github.com/hasanmd1/mrna-ai-benchmark/actions/workflows/benchmark.yml/badge.svg)](https://github.com/hasanmd1/mrna-ai-benchmark/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Abstract & Motivation
