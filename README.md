@@ -81,6 +81,19 @@ Generated raw datasets (`empirical_benchmark_metrics.csv`) and manuscript-ready 
 
 ## Citation & License
 
-This project is open-source under the MIT License. If you utilize this benchmarking framework in your preprint or publication, please cite our repository and accompanying manuscript.
+This project is open-source under the MIT License. If you utilize this benchmarking framework, software, or dataset in your academic research or technical publications, please cite this work as follows:
 
-```
+> Hasan, M. Z. (2026). *An Empirical Benchmarking Analysis of Generative AI Models vs. Traditional Heuristics for Codon Optimization, Structural Stability, and Cost Efficiency in mRNA Vaccine Engineering* (Version v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.24325567
+
+**BibTeX:**
+```bibtex
+@misc{hasan2026mrna,
+  author       = {Hasan, Md Zahid},
+  title        = {{An Empirical Benchmarking Analysis of Generative AI Models vs. Traditional Heuristics for Codon Optimization, Structural Stability, and Cost Efficiency in mRNA Vaccine Engineering}},
+  month        = nov,
+  year         = 2026,
+  publisher    = {Zenodo},
+  version      = {v1.0.0},
+  doi          = {10.5281/zenodo.24325567},
+  url          = {[https://doi.org/10.5281/zenodo.24325567](https://doi.org/10.5281/zenodo.24325567)}
+}
